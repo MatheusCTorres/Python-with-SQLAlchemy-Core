@@ -1,6 +1,6 @@
 # exercices solved in python with SQLAlchemy Core
 
-## you have to install SQLAlchemy in your console
+### you have to install SQLAlchemy in your console
 
 ```
 pip install sqlalchemy
